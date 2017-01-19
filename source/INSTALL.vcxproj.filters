@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Oana\Documents\Repos\optimal_triangulation\CMakeFiles\4a702fbdd39dc2c89d688d8e0dd1188e\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5D263190-2FF9-3DBF-979C-3E7B14B3953C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
